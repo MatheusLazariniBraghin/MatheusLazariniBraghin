@@ -7,7 +7,7 @@ Estudante de Análise e Desenvolvimento de Sistemas focado em criar soluções e
 ---
 
 ### 🛠️ Stack Tecnológica
-* **Linguagens:** PHP (Laravel), C# (.NET), JavaScript, TypeScript e Python.
+* **Linguagens:** PHP (Laravel), C# (.NET), JavaScript, TypeScript e Java.
 * **Front-end:** HTML5, CSS3, React Native, jQuery e Bootstrap.
 * **Banco de Dados:** MySQL e Firebase.
 * **Ferramentas:** Git/GitHub, Figma e Testes com Selenium WebDriver.
